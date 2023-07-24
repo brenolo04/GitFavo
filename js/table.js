@@ -46,6 +46,7 @@ class Favorites {
     
     this.verifyUsers(this.entries.length)
     this.update()
+    this.saveLocalStorage()
   }
 }
 
