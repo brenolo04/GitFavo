@@ -7,3 +7,4 @@ GitFavo é uma pequena aplicaçãp que você pode favoritar um usuário do GitHu
 + HTML
 + CSS
 + Javascript
+![Para readme](https://github.com/brenolo04/GitFavo/assets/101424546/99a6fc25-362f-40db-b8d6-41fe872dc0be)
