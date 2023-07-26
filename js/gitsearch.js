@@ -10,5 +10,3 @@ export class GithubUser {
     })
   }
 }
-
-// ({login, name, followers, public_repos})
